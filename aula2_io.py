@@ -1,0 +1,15 @@
+
+nome_usuario = input("digite seu nome")
+print("olá,",nome_usuario)
+cpf_usuario = input("digite o seu cpf")
+print("muito obrigado agora continue com as outras perguntas")
+qtd_morando = input("digite quantas pessoas moram com você")
+idade_usuario = input("digite sua idade")
+print("muito obrigado pela sua preferencia, ja iremos começar a roubar seus dados em poucos minutos")
+print()
+print()
+print()
+qtd_alunos = int(input("Quantos alunos tem na sala"))
+print("Há",qtd_alunos,"na sala de aula")
+print("qtd_alunos é do tipo",type(qtd_alunos))
+
